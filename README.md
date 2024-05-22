@@ -1,16 +1,13 @@
-## Hi there 👋
+### Senior Mobile App Developer
 
-<!--
-**herbpoe/herbpoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+Seasoned Mobile App Developer with over a decade of experience in iOS and Android development. Proven track record of top 100 app store rankings.
 
-Here are some ideas to get you started:
+#### Core Competencies
+- **Mobile Development:** Swift, Java, Kotlin, React Native, Flutter
+- **Cross-Platform Development:** Efficient and seamless performance
+- **Backend Integration:** Real-time data sync, API integration
+- **Cloud Services:** AWS, Firebase, Google Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Let's Connect
+Passionate about turning visions into mobile realities. Open to new opportunities and collaborations.
